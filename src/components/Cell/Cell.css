@@ -1,0 +1,19 @@
+.mcell{
+    display: inline-block;
+    height: 150px;
+    width: 150px;
+    margin: 5px;
+    border: 2px solid grey;
+}
+
+.mcell:hover{
+    cursor: pointer;
+}
+
+.mcell.orange{
+    background-color: orange;
+}
+
+.mcell.green{
+    background-color: green;
+}
